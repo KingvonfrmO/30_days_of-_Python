@@ -1,0 +1,1 @@
+This is my 30-day journey learning Python.
